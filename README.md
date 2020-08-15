@@ -2,9 +2,9 @@
 
 
 ## Technology Enthusiast, Research Devotee, Full Stack Developer, Blockchain Developer, DevOps !!
-- ⚡ Winner of Smart India Hackathon 2020
-- ⚡ Finalist of vesAIthon
-- ⚡ Finalist of vithack
+- :trophy: Winner of Smart India Hackathon 2020
+- :dart: Finalist of vesAIthon 2019
+- :dart: Finalist of vithack 2019
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 
