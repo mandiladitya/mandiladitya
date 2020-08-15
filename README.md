@@ -3,8 +3,8 @@
 
 ## Technology Enthusiast, Research Devotee, Full Stack Developer, Blockchain Developer, DevOps !!
 - ⚡ Winner of Smart India Hackathon 2020
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- ⚡ Finalist of vesAIthon
+- ⚡ Finalist of vithack
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 
@@ -56,7 +56,7 @@
 <!-- YOUTUBE:END -->
 
 ---
-
+![Sameer's github stats](https://github-readme-stats.vercel.app/api?username=monkfromearth&hide=["issues"]&show_icons=true)
 
 ---
 
