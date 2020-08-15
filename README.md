@@ -15,7 +15,7 @@
 [<img align="left" alt="Aditya Mandil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-https://img.shields.io/badge/-@__adiitya__-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_adiitya_
+[! [Twitter Badge](https://img.shields.io/badge/-@__adiitya__-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_adiitya_)]
 
 
 ### Languages and Tools:
