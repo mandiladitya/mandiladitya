@@ -15,7 +15,8 @@
 [<img align="left" alt="Aditya Mandil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-[! [Twitter Badge](https://img.shields.io/badge/-@__adiitya__-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_adiitya_)]
+[![Twitter Badge](https://img.shields.io/badge/-@monkfromearth-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/monkfromearth)](https://twitter.com/monkfromearth) [![Linkedin Badge](https://img.shields.io/badge/-monkfromearth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/monkfromearth/)](https://www.linkedin.com/in/monkfromearth/) [![Medium Badge](https://img.shields.io/badge/-@monkfromearth-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@monkfromearth/)](https://medium.com/@monkfromearth)
+[![Gmail Badge](https://img.shields.io/badge/-sameerkhanofficial@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sameerkhanofficial@gmail.com)](mailto:sameerkhanofficial@gmail.com)
 
 
 ### Languages and Tools:
