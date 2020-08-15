@@ -56,7 +56,7 @@
 <!-- YOUTUBE:END -->
 
 ---
-![Sameer's github stats](https://github-readme-stats.vercel.app/api?username=monkfromearth&hide=["issues"]&show_icons=true)
+![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=mandiladitya&hide=[%22issues%22]&show_icons=true&theme=tokyonight)
 
 ---
 
