@@ -14,6 +14,8 @@
 [<img align="left" alt="Aditya Mandil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Aditya Mandil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Aditya Mandil | Docker Hub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />][docker]
+[<img align="left" alt="Aditya Mandil | Docker Hub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hacker]
+[<img align="left" alt="Aditya Mandil | Docker Hub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][code]
 <br />
 
 
@@ -61,3 +63,5 @@
 [instagram]: https://www.instagram.com/__adii.tya__/
 [linkedin]: https://in.linkedin.com/in/aditya-mandil-648419182
 [docker]: https://hub.docker.com/u/adityamandil317
+[hacker]: https://www.hackerrank.com/adityamandil317?hr_r=1
+[code]: https://www.codechef.com/users/invincible_317
