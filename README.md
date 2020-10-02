@@ -1,7 +1,7 @@
 ### Hi there, I'm [Aditya mandil][website] ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"></h2>
 
 
-## Technology Enthusiast, Research Devotee, Full Stack Developer, Blockchain Developer, DevOps !!
+## Technology Enthusiast, Research Devotee, Problem Solver, Full Stack Developer, Blockchain Developer, DevOps !!
 - :trophy: Winner of Smart India Hackathon 2020
 - :dart: Finalist of vesAIthon 2019
 - :dart: Finalist of vithack 2019
