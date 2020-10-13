@@ -46,15 +46,18 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
+### 📺 Latest YouTube Videos | Github Pro Series
+<!-- YOUTUBE:START 
 - [Publish python package on PYPI](https://www.youtube.com/watch?v=E_wPxGIcBig)
 - [Deploy Flask Webapp (Free 💯)](https://www.youtube.com/watch?v=EQ69FK4_C8A)
 - [Host your Website on Zeit ( Free 💯)](https://www.youtube.com/watch?v=ykICBLd9vZ0)
 - [FTP server on Termux Android 🔥🔥](https://www.youtube.com/watch?v=vhLW4zSRBks)
 - [Convert website to App ( Free 💯 ) | Both IOS & Android](https://www.youtube.com/watch?v=-DUsl0-TvTw)
-<!-- YOUTUBE:END -->
 
+<!-- YOUTUBE:END -->
+- [Ep-1 | Github Pro | Contribute to Open source](https://youtu.be/h7P4pUH30bI)
+- [Ep-2 | Github Pro | Custom 404 page for github pages](https://youtu.be/UZidx3258k8)
+- [Ep - 3 | Github Pro | Style your github Profile](https://youtu.be/jq1c2CFY10U)
 ---
 ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=mandiladitya&hide=[%22issues%22]&show_icons=true&theme=tokyonight)
 
