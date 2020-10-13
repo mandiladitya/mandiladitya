@@ -1,7 +1,7 @@
 ### Hi there, I'm [Aditya mandil][website] ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"></h2>
-[![Twitter Badge](https://img.shields.io/badge/-@adityamandil-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=twitter)](twitter) [![Linkedin Badge](https://img.shields.io/badge/-adityamandil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin)](linkedin)
+[![Twitter Badge](https://img.shields.io/badge/-@adityamandil-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=twitter)][twitter] [![Linkedin Badge](https://img.shields.io/badge/-adityamandil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin)][linkedin]
 [![Gmail Badge](https://img.shields.io/badge/-mandil.adityal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mandil.aditya@gmail.com)](mailto:mandil.aditya@gmail.com)
-[![Youtube Badge](https://img.shields.io/badge/-AdityaMandil-c14438?style=flat-square&logo=youtube&logoColor=white)](youtube)
+[![Youtube Badge](https://img.shields.io/badge/-AdityaMandil-c14438?style=flat-square&logo=youtube&logoColor=white)][youtube]
 ## Technology Enthusiast, Research Devotee, Problem Solver, Full Stack Developer, Blockchain Developer, DevOps !!
 - :trophy: Winner of Smart India Hackathon 2020
 - :dart: Finalist of vesAIthon 2019
