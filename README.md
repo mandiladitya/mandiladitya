@@ -57,7 +57,7 @@
 <!-- YOUTUBE:END -->
 - [Ep-1 | Github Pro | Contribute to Open source](https://youtu.be/h7P4pUH30bI)
 - [Ep-2 | Github Pro | Custom 404 page for github pages](https://youtu.be/UZidx3258k8)
-- [Ep - 3 | Github Pro | Style your github Profile](https://youtu.be/jq1c2CFY10U)
+- [Ep-3 | Github Pro | Style your github Profile](https://youtu.be/jq1c2CFY10U)
 ---
 ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=mandiladitya&hide=[%22issues%22]&show_icons=true&theme=tokyonight)
 
