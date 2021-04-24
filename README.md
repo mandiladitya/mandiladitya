@@ -5,6 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-mandil.aditya@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mandil.aditya@gmail.com)](mailto:mandil.aditya@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/-AdityaMandil-c14438?style=flat-square&logo=youtube&logoColor=white)][youtube]
 ## Technology Enthusiast, Research Devotee, Problem Solver, Full Stack Developer, Blockchain Developer, DevOps & Microservices !!
+- :trophy: Runner Up of ASEAN INDIA Hackathon 2021
 - :trophy: Winner of Smart India Hackathon 2020
 - :dart: Finalist of vesAIthon 2019
 - :dart: Finalist of vithack 2019
