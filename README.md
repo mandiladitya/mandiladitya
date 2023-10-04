@@ -66,8 +66,6 @@
 ---
 
 
----
-
 [website]: https://mandiladitya.github.io
 [youtube]: https://www.youtube.com/channel/UCViBe7a7AiZ8t7-SDAKB29g
 [instagram]: https://www.instagram.com/__adii.tya__/
